@@ -157,15 +157,11 @@ The project focuses on:
 
 # Key Findings
 
-*To be documented based on the final Power BI analysis.*
-
 The findings section will focus on meaningful patterns identified across regions, transaction types, customers, and time.
 
 ---
 
 # Recommendations
-
-*To be finalized based on the analytical findings.*
 
 Potential areas for business recommendations include:
 
