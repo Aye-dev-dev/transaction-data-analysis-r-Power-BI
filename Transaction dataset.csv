@@ -1,0 +1,8 @@
+Date,Region,CustomerID,TransactionAmount,TransactionType
+2024-01-15,Tashkent,C001,500000,Online
+2024-02-10,Samarkand,C002,1200000,ATM
+2024-05-20,Tashkent,C003,300000,Online
+2025-01-16,Tashkent,C001,600000,Online
+2025-02-12,Samarkand,C002,1100000,ATM
+2025-03-05,Bukhara,C004,450000,Mobile
+2025-05-22,Tashkent,C005,800000,Online
